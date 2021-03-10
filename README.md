@@ -1,2 +1,2 @@
 # pf
-* porfolio- //portfolio
+* porfolio- https://songsunmi.github.io/pf/portfolio
